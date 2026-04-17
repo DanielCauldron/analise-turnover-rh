@@ -1,0 +1,26 @@
+ID_Funcionario,Nome,Departamento,Cargo,Data_Admissao,Data_Saida,Motivo_Saida,Salario,Genero,Idade,UF
+001,Ana Lima,Comercial,Vendedor,2019-03-10,2022-07-15,Pedido próprio,2800,F,28,SP
+002,Carlos Souza,TI,Analista,2020-01-05,,, 5200,M,34,RJ
+003,Fernanda Reis,RH,Assistente,2018-06-20,2021-12-01,Desligamento,2200,F,26,MG
+004,João Melo,Comercial,Supervisor,2017-11-15,,,4800,M,41,SP
+005,Patricia Silva,Financeiro,Analista,2021-04-08,2023-03-20,Pedido próprio,4100,F,30,SP
+006,Rafael Costa,Operações,Técnico,2016-09-01,2020-05-10,Desligamento,2600,M,38,BA
+007,Juliana Neves,TI,Desenvolvedora,2022-02-14,,,6800,F,27,SP
+008,Marcos Paulo,Comercial,Vendedor,2020-08-19,2022-11-30,Pedido próprio,2800,M,25,CE
+009,Camila Rocha,RH,Coordenadora,2015-03-22,,,5500,F,36,RJ
+010,Diego Alves,Financeiro,Assistente,2023-01-10,,,2400,M,23,SP
+011,Larissa Teixeira,Operações,Técnico,2019-07-30,2021-08-15,Pedido próprio,2600,F,29,GO
+012,Bruno Martins,TI,Analista,2018-04-11,2022-06-01,Outro emprego,5100,M,32,SP
+013,Aline Ferreira,Comercial,Vendedor,2021-09-05,2023-01-10,Pedido próprio,2800,F,24,MG
+014,Thiago Borges,Financeiro,Analista,2017-05-18,,,4300,M,39,SP
+015,Renata Gomes,RH,Assistente,2022-11-01,2023-08-20,Desligamento,2200,F,22,RJ
+016,Gustavo Lima,Operações,Supervisor,2014-08-25,,,5900,M,45,SP
+017,Isabela Cunha,TI,Desenvolvedora,2020-03-17,2023-05-31,Outro emprego,6700,F,31,SP
+018,Felipe Santos,Comercial,Supervisor,2019-10-22,,,4900,M,37,BA
+019,Vanessa Moura,Financeiro,Coordenadora,2016-02-09,,,6100,F,42,SP
+020,Eduardo Pires,Operações,Técnico,2021-06-14,2022-09-01,Pedido próprio,2600,M,27,SP
+021,Leticia Barros,RH,Analista,2018-09-03,,,3800,F,33,MG
+022,Anderson Leal,TI,Analista,2019-12-16,2021-04-20,Desligamento,5000,M,29,SP
+023,Priscila Matos,Comercial,Vendedor,2022-05-23,,,2800,F,25,RJ
+024,Roberto Dias,Financeiro,Assistente,2020-10-07,2022-02-28,pedido Próprio,2400,M,28,SP
+025,Tatiane Cruz,Operações,Técnico,2017-04-19,,,2700,F,35,GO
