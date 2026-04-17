@@ -74,4 +74,4 @@ hr-turnover-analysis/
 ## 👤 Autor
 
 Daniel Cauldron
-[LinkedIn](https://www.linkedin.com/in/seu-perfil) | [GitHub](https://github.com/DanielCauldron)
+[LinkedIn](https://www.linkedin.com/in/daniel-caldeirao/) | [GitHub](https://github.com/DanielCauldron)
